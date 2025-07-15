@@ -1,0 +1,24 @@
+Nr,Account,Posting Date,Transaction Date,Description,Original Description,Parent Category,Category,Money In,Money Out,Fee,Balance
+1,1234567890,7/1/2025,6/30/2025 14:20,Market Fresh Supermarket (Card 1234),Market Fresh Downtown,Foods,Groceries,0.0,-320.5,0.0,480.75
+2,1234567890,7/1/2025,7/1/2025 8:45,Monthly Interest Credit,Interest payment JUL 2025,Transfer,Transfer,25.0,0.0,0.0,505.75
+3,1234567890,7/2/2025,7/2/2025 10:30,Round-up Transfer to Savings,Savings Round-up Transfer,Transfer,Transfer,0.0,-5.0,0.0,500.75
+4,1234567890,7/2/2025,7/2/2025 16:50,Transfer Received from J. Doe,Personal Transfer,Transfer,Transfer,200.0,0.0,0.0,700.75
+5,1234567890,7/3/2025,7/3/2025 12:15,Online Purchase: Amazon Marketplace (Card 1234),AMZN Marketplace,Personal & Family,Online Store,0.0,-45.75,0.0,655.0
+6,1234567890,7/3/2025,7/3/2025 12:15,Processing Fee: Amazon Purchase,AMZN Processing Fee,Fees,Fees,0.0,0.0,-1.5,653.5
+7,1234567890,7/3/2025,7/3/2025 14:00,Round-up Transfer,Savings Round-up Transfer,Transfer,Transfer,0.0,-2.25,0.0,651.25
+8,1234567890,7/4/2025,7/4/2025 9:05,Local Market (Card 1234),Local Market Fresh,Foods,Groceries,0.0,-18.0,0.0,633.25
+9,1234567890,7/4/2025,7/4/2025 15:45,Local Market (Card 1234),Local Market Fresh,Foods,Groceries,0.0,-70.0,0.0,563.25
+10,1234567890,7/5/2025,7/5/2025 11:00,Payment Received: S. Smith,Salary Payment,Other Income,Other Income,150.0,0.0,0.0,713.25
+11,1234567890,7/5/2025,7/5/2025 13:30,Cash Withdrawal ATM: 987654321,Cash Withdrawal,Cash,Cash Withdrawal,0.0,-60.0,0.0,653.25
+12,1234567890,7/5/2025,7/5/2025 13:30,Cash Withdrawal Fee ATM,Cash Withdrawal Fee,Fees,Fees,0.0,0.0,-2.0,651.25
+13,1234567890,7/5/2025,7/5/2025 17:20,Transfer Received from J. Doe,Personal Transfer,Transfer,Transfer,120.0,0.0,0.0,771.25
+14,1234567890,7/6/2025,7/6/2025 19:30,Digital Payment: Netflix,NETFLIX Subscription,Personal & Family,Digital Payments,0.0,-150.0,0.0,621.25
+15,1234567890,7/6/2025,7/6/2025 19:30,Payment Fee: Netflix,Subscription Fee,Fees,Fees,0.0,0.0,-1.0,620.25
+16,1234567890,7/7/2025,7/7/2025 10:00,Round-up Transfer,Savings Round-up Transfer,Transfer,Transfer,0.0,-10.0,0.0,610.25
+17,1234567890,7/7/2025,7/7/2025 15:15,Transfer Received from J. Doe,Personal Transfer,Transfer,Transfer,75.0,0.0,0.0,685.25
+18,1234567890,7/7/2025,7/7/2025 20:00,Digital Payment: Spotify,SPOTIFY Subscription,Personal & Family,Digital Payments,0.0,-40.0,0.0,645.25
+19,1234567890,7/7/2025,7/7/2025 20:00,Payment Fee: Spotify,Subscription Fee,Fees,Fees,0.0,0.0,-1.0,644.25
+20,1234567890,7/8/2025,7/8/2025 14:30,Transfer Received from J. Doe,Personal Transfer,Transfer,Transfer,55.0,0.0,0.0,699.25
+21,1234567890,7/8/2025,7/8/2025 14:30,Transfer from Savings Account,Savings Transfer,Transfer,Transfer,30.0,0.0,0.0,729.25
+22,1234567890,7/8/2025,7/8/2025 17:45,Digital Payment: Uber Eats,Food Delivery,Personal & Family,Digital Payments,0.0,-80.0,0.0,649.25
+23,1234567890,7/8/2025,7/8/2025 17:45,Payment Fee: Uber Eats,Delivery Fee,Fees,Fees,0.0,0.0,-1.0,648.25
